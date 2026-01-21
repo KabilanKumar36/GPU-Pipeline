@@ -33,3 +33,7 @@ This project implements the core stages of the GPU rendering pipeline:
 * **Extension Loader:** GLAD / GLEW
 * **Math:** GLM
 
+## 📚 Acknowledgements
+
+* Based on the excellent tutorials by [Joey de Vries](https://twitter.com/JoeyDeVries) at [LearnOpenGL.com](https://learnopengl.com/).
+* Original code concepts licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
